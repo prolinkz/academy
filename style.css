@@ -1,0 +1,19 @@
+
+        /* .wrapper{
+            width: 800px;
+            margin: 0 auto;
+        }
+        table tr td:last-child{
+            width: 120px;
+        } */
+
+        h2 {
+            border-right-color: bisque;
+            background-color: cadetblue;
+            height: 100px;
+            width: 100%;
+            text-align: center;
+            text-decoration-color: rgb(238, 223, 10);
+
+        }
+    
